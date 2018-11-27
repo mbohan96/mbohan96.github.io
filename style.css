@@ -1,0 +1,14 @@
+ 
+    .header{color:blue;text-align: center;font-style: italic;background-color: lightskyblue}
+    .title{color:salmon;text-align: center;font-family: fantasy; background-color:blue}
+    .lists{background-color: lightblue;text-align: center; color:blue}
+    
+    a:hover{background-color: blueviolet}
+    a:visited{color:deeppink}
+    a:focus{background-color: orange}
+    a:active{background-color:aquamarine}
+
+    body {
+        background-image: url("https://wallpapercave.com/wp/FxmXPNK.jpg")}
+
+        
